@@ -74,9 +74,9 @@ Evaluasi dilakukan menggunakan:
 
 | Model         | Akurasi          |
 | ------------- | ---------------- |
-| Decision Tree | (isi hasil kamu) |
-| Naive Bayes   | (isi hasil kamu) |
-| SVM           | (isi hasil kamu) |
+| Decision Tree |      0.941       |
+| Naive Bayes   |      0.62        |
+| SVM           |      0.937       |
 
 ---
 
